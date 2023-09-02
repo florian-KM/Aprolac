@@ -753,7 +753,7 @@ textarea {
 .preloader-area {
     position: fixed;
     z-index: 999999;
-    background-color: #CE1126;
+    background-color: #007A5E;
     width: 100%;
     height: 100%;
     text-align: center;
@@ -1270,11 +1270,11 @@ textarea {
 }
 
 .slider-item.banner-bg-3 {
-    background-image: url(../images/img/WhatsApp\ Image\ 2023-04-22\ at\ 18.27.12.jpg)
+    background-image: url(../images/img/WhatsApp\ Image\ 2023-04-22\ at\ 18.27.17.jpg)
 }
 
 .slider-item.banner-bg-4 {
-    background-image: url(../images/img/WhatsApp\ Image\ 2023-04-22\ at\ 18.27.16.jpg
+    background-image: url(../images/img/WhatsApp\ Image\ 2023-04-22\ at\ 18.27.17.jpg)
 }
 
 .slider-item.banner-bg-5 {
@@ -1282,15 +1282,15 @@ textarea {
 }
 
 .slider-item.banner-bg-6 {
-    background-image: url(../images/img/arbre-palabres.jpg)
+    background-image: url(../images/img/present.jpg)
 }
 
 .slider-item.banner-bg-7 {
-    background-image: url(../images/img/african-women-g6f223fd3f_1280.jpg)
+    background-image: url(../images/img/present_1.jpg)
 }
 
 .slider-item.banner-bg-8 {
-    background-image: url(../images/img/Quelle_différence_entre_langue_nationale_langue_maternelle_et_langue_locale.jpg)
+    background-image: url(../images/img/present_3.jpg)
 }
 
 .slider-content {
