@@ -1296,7 +1296,11 @@ textarea {
 .slider-content {
     max-width: 740px;
     margin-left: 0;
-    margin-right: auto
+    margin-right: auto;
+    opacity: 0.9;
+    border-radius: 30px;
+    
+
 }
 
 .slider-content h1 {
